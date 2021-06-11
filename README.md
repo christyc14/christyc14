@@ -3,7 +3,7 @@
 
 🖥️ Algo trading intern @ [Morgan Stanley](https://www.morganstanley.com/)
 
-🔙 Former Sensors intern @ [Dyson](https://dyson.com) 
+🔙 Former Sensors intern @ [Dyson](https://dyson.com) and Intern @ [MTR](https://mtr.com.hk)
 
 🔗 https://christychan.cc
 
