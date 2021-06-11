@@ -1,19 +1,12 @@
-### Hi there, I'm Rayan 👋
-👨🏽‍🎓 Computing - AI & ML @ Imperial College 22'
+### Hi there, I'm Christy
+👨🏽‍🎓 Computer Engineering (Electronic and Information Engineering) @ Imperial College 22'
 
-🖥️ SWE intern @ [Facebook](https://facebook.com)
+🖥️ Algo trading intern @ [Morgan Stanley](https://www.morganstanley.com/)
 
-🔙 Former SWE intern @ [American Express](https://americanexpress.com) and [Schlumberger](https://www.slb.com)
+🔙 Former Sensors intern @ [Dyson](https://dyson.com) 
 
-🔗 https://hatout.dev
+🔗 https://christychan.cc
 
-My interests currently lie in the following areas:
-- Deep Learning
-- Distributed Systems
-- Augmented Reality
-- DeFi
-- Cloud Infrastructure
+Follow me on: [Linkedin](https://www.linkedin.com/in/christychan14/) - Clubhouse @christyc14
 
-Follow me on: [Twitter](https://twitter.com/rayanht) - Clubhouse @rayanht
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanht&layout=compact&langs_count=8) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christyc14&layout=compact&langs_count=8) 
