@@ -1,4 +1,4 @@
-### Hi there, I'm Christy
+### Hi, I'm Christy
 👨🏽‍🎓 Computer Engineering (Electronic and Information Engineering) @ Imperial College 22'
 
 🖥️ Algo trading intern @ [Morgan Stanley](https://www.morganstanley.com/)
