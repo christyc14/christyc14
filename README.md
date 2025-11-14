@@ -1,8 +1,8 @@
 ### Hi, I'm Christy!
 
-🖥️ Current Associate Consultant @ [Bain & Company](https://www.bain.com/)
+🖥️ Current Founding Consultant @ [Sena Strategy](https://senastrategy.ai/)
 
-🔙 Former Algo Trading Intern @ [Morgan Stanley](https://www.morganstanley.com/), former Sensors Intern @ [Dyson](https://dyson.com), and Intern @ [MTR](https://mtr.com.hk)
+🔙 Former Associate Consultant @ [Bain & Company](https://www.bain.com/), former Algo Trading Intern @ [Morgan Stanley](https://www.morganstanley.com/), former Sensors Intern @ [Dyson](https://dyson.com)
 
 👨🏽‍🎓 Computer Engineering (Electronic and Information Engineering) @ Imperial College 22'
 
