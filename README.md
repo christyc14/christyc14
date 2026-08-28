@@ -1,8 +1,8 @@
 ### Hi, I'm Christy!
 
-🖥️ Current Founding Consultant @ [Sena Strategy](https://senastrategy.ai/)
+🖥️ Current Manager, Special Projects (AI & Automations) @ [ASOS](https://asos.com/)
 
-🔙 Former Associate Consultant @ [Bain & Company](https://www.bain.com/), former Algo Trading Intern @ [Morgan Stanley](https://www.morganstanley.com/), former Sensors Intern @ [Dyson](https://dyson.com)
+🔙 Previously: Consultant @ Sena AI Strategy; Associate Consultant @ [Bain & Company](https://www.bain.com/); Algo Trading Intern @ [Morgan Stanley](https://www.morganstanley.com/); Sensors Intern @ [Dyson](https://dyson.com)
 
 👨🏽‍🎓 Computer Engineering (Electronic and Information Engineering) @ Imperial College 22'
 
